@@ -145,6 +145,12 @@ export const projects = [
     image: "/images/mysql.webp",
     web: 'https://github.com/canto1380/node-mysql-restAPI'
   },
+  {
+    name: 'Panel Tasks',
+    description: "Proyecto de prueba realizado con NextJS que cuenta con un CRUD de tareas almacenadas en una Base de Datos no relacional (MongoDB)",
+    image: "/images/next-mongo.png",
+    web: 'https://github.com/canto1380/tasksPane-nextjs-mongodb'
+  },
   // {
   //   name: 'MongoDB',
   //   description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
